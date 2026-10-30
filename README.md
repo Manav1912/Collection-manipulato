@@ -8,6 +8,6 @@ sets, loops, and match-case statements.
 
 ## Output
 
-![Student Data Organizer Output - 1](Output 1.png)
+![Student Data Organizer Output - 1](output-1.png)
 
-![Student Data Organizer Output - 2](Output 2.png)
+![Student Data Organizer Output - 2](output-2.png)
